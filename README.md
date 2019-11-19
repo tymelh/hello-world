@@ -1,2 +1,2 @@
 # hello-world
-trying thing out 
+trying things out 
